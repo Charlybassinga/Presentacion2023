@@ -10,8 +10,15 @@ Esta es mi presentacion personal para Paradigmas de la Programacion - Unpaz
 - 1 Hijo
 - Administrativo
 
-### MIS LENGUAJES DE PROGRAMACION PREFERIDOS
+### MIS LENGUAJES DE PROGRAMACION
 
 - Python
 - Kotlin
+- HTML
 - Javascript
+
+### MIS PASATIEMPOS
+
+- Ya casi no tengo, si no trabajo estoy estudiando.
+- Aunque podria ser escuchar audiolibros mientras viajo en colectivo.
+
